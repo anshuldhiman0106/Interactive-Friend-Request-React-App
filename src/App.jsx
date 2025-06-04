@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import { gsap } from "gsap";
-import Letter from "./components/letter";
+import Letter from "./components/Letter";
 
 import Background from "./components/Background"; 
 
