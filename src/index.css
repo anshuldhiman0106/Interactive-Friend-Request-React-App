@@ -1,0 +1,41 @@
+
+@import "tailwindcss";
+
+
+
+
+@font-face {
+  font-family: 'myFont';
+  src: url('./font/Myfont.woff2') format('woff2');
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'kam-800';
+  src: url('./font/poppins-latin-800-normal-Bd8-pIP1.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kam-700';
+  src: url('./font/poppins-latin-700-normal-Qrb0O0WB.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kam-400';
+  src: url('./font/poppins-latin-400-normal-cpxAROuN.woff2') format('woff2');
+}
+
+
+*{
+  box-sizing: border-box;
+}
+
+
+::selection {
+  background-color: #e74c3c;
+  color: #ffb6c1;
+}
+
+
+
+
