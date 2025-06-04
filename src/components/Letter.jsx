@@ -15,7 +15,7 @@ const Letter = forwardRef(({ onClick }, ref) => {
     >
       <img
         className="absolute z-[4] right-3 top-3 w-16 sm:w-20 md:w-24"
-        src='./src/assets/stamp.png'
+        src='/stamp.png'
         alt="stamp"
       />
      <h1 className="text-center text-white font-bold font-[myFont] text-3xl sm:text-4xl md:text-5xl">
