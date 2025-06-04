@@ -1,8 +1,8 @@
 import React, { useRef } from "react";
 import { gsap } from "gsap";
-import Letter from "./components/Letter"; // Ensure this import is correct
+import Letter from "./components/letter";
 
-import Background from "./components/Background"; // Add this import
+import Background from "./components/Background"; 
 
 const App = () => {
   
@@ -37,7 +37,7 @@ const handleClick = () => {
     tl.to(
       box,
       {
-        height: "40%", // slightly less for mobile to avoid overflow
+        height: "40%", 
         duration: 0.3,
         ease: "power1.inOut",
       },
