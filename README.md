@@ -1,12 +1,39 @@
-# React + Vite
+\# 💌 Interactive Friend Request React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A playful and interactive React app that asks the user _"Will you be my friend?"_ with a delightful combination of animations and responsive design. Perfect for sharing with friends or as a creative front-end animation portfolio piece.
 
-Currently, two official plugins are available:
+> 🌐 **Live Demo:**  
+> 👉 [https://will-you-be-my-friend-alpha.vercel.app/](https://will-you-be-my-friend-alpha.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 💖 Animated envelope reveal using **GSAP**
+- 🎭 "Yes" and "No" buttons with fun behaviors (fading, bouncing, cloning)
+- 🎉 Celebration screen with heart animation when "Yes" is clicked
+- 📱 Responsive design for mobile and desktop
+- 🎨 Modern UI built with **Tailwind CSS**
+- ⚡ Smooth transitions with **GSAP** & optional **Framer Motion**
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js**
+- **GSAP (GreenSock Animation Platform)**
+- **Tailwind CSS**
+- **Framer Motion** *(optional/partially used)*
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/anshuldhiman0106/Will_you_be_my_friend.git
+cd will-you-be-my-friend
+npm install
+npm run dev
+
