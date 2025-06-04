@@ -137,7 +137,7 @@ const Background = React.forwardRef((props, ref) => {
           <div className="bg-white p-4 rounded-lg shadow-lg w-fit -rotate-3">
             <div className="w-24 h-24 sm:w-48 sm:h-48 mb-4">
               <img
-                src="/heart.gif"
+                src="./src/assets/heart.gif"
                 alt="Celebrating heart"
                 className="w-full h-full object-cover rounded"
               />
