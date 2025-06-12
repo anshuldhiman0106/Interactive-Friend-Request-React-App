@@ -32,8 +32,8 @@ A playful and interactive React app that asks the user _"Will you be my friend?"
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/anshuldhiman0106/Will_you_be_my_friend.git
-cd will-you-be-my-friend
+git clone https://github.com/anshuldhiman0106/Interactive Friend Request React App.git
+cd Interactive Friend Request React App
 npm install
 npm run dev
 
