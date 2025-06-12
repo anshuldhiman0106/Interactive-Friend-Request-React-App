@@ -3,7 +3,7 @@
 A playful and interactive React app that asks the user _"Will you be my friend?"_ with a delightful combination of animations and responsive design. Perfect for sharing with friends or as a creative front-end animation portfolio piece.
 
 > 🌐 **Live Demo:**  
-> 👉 [https://will-you-be-my-friend-alpha.vercel.app/](https://will-you-be-my-friend-alpha.vercel.app/)
+> 👉 [https://interactive-friend-request-react-ap.vercel.app/]
 
 ---
 
